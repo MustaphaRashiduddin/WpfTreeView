@@ -1,0 +1,15 @@
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojResolveAssemblyReference.cache
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.Cache
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+C:\Users\Mustapha\res\c#\WPF\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb
